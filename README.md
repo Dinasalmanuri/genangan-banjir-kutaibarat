@@ -1,4 +1,4 @@
-IDENTIFIKASI SEBARAN DAN KARAKTERISTIK GENANGAN BANJIR DI KABUPATEN KUTAI BARAT MENGGUNAKAN CITRA SENTINEL-1
+# IDENTIFIKASI SEBARAN DAN KARAKTERISTIK GENANGAN BANJIR DI KABUPATEN KUTAI BARAT MENGGUNAKAN CITRA SENTINEL-1
 Bencana banjir menjadi jenis bencana hidrometeorologi yang paling mendominasi kejadian bencana di Indonesia. Salah satu lokasi terdampak banjir adalah Kabupaten Kutai Barat yang mencapai 73 kejadian dengan korban menderita sebanyak 20.926 jiwa. Kompleksitas topografi, hidrografi dan curah hujan menyebabkan wilayah Kutai Barat menjadi semakin rentan untuk tergenang banjir. Oleh karena itu, tujuan dari kegiatan ini dilakukan untuk mengidentifikasi sebaran dan karakteristik genangan banjir dengan memanfaatkan teknologi pengindraan jauh. 
 Data yang digunakan berupa citra Sentinel-1, data DEM dari SRTM, Global Surface Water, data vektor sungai dari RBI, data curah hujan dari satelit CHIRPS, dan batas administrasi Kabupaten Kutai Barat. 
 Respositori ini bersifat terbuka (open-source) untuk keperluan mitigasi bencana banjir._Berteman di Linkedln https://www.linkedin.com/in/dina-salmanuri/
