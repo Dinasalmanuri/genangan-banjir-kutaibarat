@@ -1,2 +1,2 @@
 # genangan-banjir-kutaibarat
-Identifikasi genangan banjir di Kabupaten Kutai Barat tanggal 17 April 2025
+Repositori ini berisi script yang digunakan dalam proyek akhir dengan judul "Identifikasi Sebaran dan Karakteristik Genangan Banjir di Kabupaten Kutai Barat Menggunakan Citra Sentinel-1". 
